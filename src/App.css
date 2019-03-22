@@ -1,0 +1,56 @@
+#keylogger {
+  text-align: center;
+	font-family: 'Raleway', sans-serif;
+  align-content: center;
+}
+
+#topBanner {
+  background: #6200ee;
+	color: #fff;
+	border-radius: 8px 12px;
+  width: 380px;
+  margin: 0 auto 30px;
+  padding: 5px;
+}
+
+textarea {
+  text-align: center;
+  width: 505px;
+  height: 150px;
+  resize: none;
+  border: 2px solid #ccc;
+	outline: none;
+  font-size: 1.8em;
+  padding: 10px;
+}
+
+#wordChange {
+	background: #3700b3;
+  font-size: 1.5em;
+	color: #fff;
+	border-radius: 8px 12px;
+	transition: 1000ms ease all;
+  padding: 5px;
+  display: flex;
+  justify-content: space-around;
+  width: 75%;
+  margin: 10px auto 10px;
+  padding: 10px;
+}
+
+button {
+  background: #03dac5;
+  color: #fff;
+	border-radius: 8px 12px;
+	height: 60px;
+	font-size: 1.6em;
+	cursor: pointer;
+	outline: none;
+	font-family: 'Raleway', sans-serif;
+	width: 320px;
+  text-align: center;
+}
+
+pre#inputs {
+  font-size: 1.5em;
+}
